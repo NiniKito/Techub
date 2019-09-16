@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="vb.php" method="POST" enctype="multipart/form-data">
+    <form action="UploadCV.php" method="POST" enctype="multipart/form-data">
         <input type="text" name="name" id="" placeholder="name">
         <input type="text" name="surname" id="" placeholder="surname">
         <input type="text" name="adrress" id=""placeholder="adrress">
